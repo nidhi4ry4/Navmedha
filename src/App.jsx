@@ -191,7 +191,7 @@ export default function App() {
 
                 <div className="detail-ticket-date">
                   <div>{activeEvent.date.split(" ")[0]}</div>
-                  <span>{activeEvent.date.split(" ")[1]} · 2025</span>
+                  <span>{activeEvent.date.split(" ")[1]} · 2026</span>
                 </div>
 
                 <div className="detail-ticket-rule" />
